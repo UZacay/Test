@@ -1,0 +1,12 @@
+[1mdiff --git a/Hotels v1.txt b/Hotels v1.txt[m
+[1mindex 077c47f..a10b682 100644[m
+[1m--- a/Hotels v1.txt[m	
+[1m+++ b/Hotels v1.txt[m	
+[36m@@ -2,7 +2,6 @@[m
+ Line1: "Village Hotel", Line2: "Wessex Fields", Town: "Bournemouth", County: "Dorset", PostCode: "BH7 7DR", DateOfSeminar: "2013-02-28 19:00" [m
+ *** EXAMPLE ***[m
+ [m
+[31m-[m
+ South[m
+ Line1: "Jurys Inn", Line2: "101 Stroudley Road", Town: "Brighton", County: "East Sussex", PostCode: "BN1 4DJ", DateOfSeminar: "2013-10-03 18:00" [m
+ Line1: "Best Western Chilworth Manor", Line2: "Chilworth", Town: "Southampton", County: "Hampshire", PostCode: "SO16 7PT", DateOfSeminar: "2013-10-03 18:00" [m
