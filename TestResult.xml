@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\_Temp\Project1.nunit" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-09-10" time="13:21:02">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="HQ02866" user="uzacay" user-domain="TG" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\_Temp\Project1.nunit" executed="True" result="Failure" success="False" time="0.015" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Development\C2\branches\v4.2\C2.System.Test\bin\Debug\C2.System.Test.dll" executed="True" result="Failure" success="False" time="0.015" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="C2" executed="True" result="Failure" success="False" time="0.015" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="System" executed="True" result="Failure" success="False" time="0.014" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="0.014" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="Products" executed="True" result="Failure" success="False" time="0.013" asserts="0">
+                        <results>
+                          <test-suite type="TestFixture" name="UtNewBusinessTest" executed="True" result="Failure" success="False" time="0.013" asserts="0">
+                            <results>
+                              <test-suite type="ParameterizedTest" name="UtNewBusinessTester" executed="True" result="Failure" success="False" time="0.011" asserts="0">
+                                <results>
+                                  <test-case name="C2.System.Test.Products.UtNewBusinessTest.UtNewBusinessTester(C2.System.Test.QuoteWrapper)" executed="True" result="Error" success="False" time="0.010" asserts="0">
+                                    <failure>
+                                      <message><![CDATA[System.IO.FileNotFoundException : Could not load file or assembly 'Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7' or one of its dependencies. The system cannot find the file specified.]]></message>
+                                      <stack-trace><![CDATA[at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+at System.Activator.CreateInstance(String assemblyString, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityInfo, StackCrawlMark& stackMark)
+at System.Activator.CreateInstance(String assemblyName, String typeName)
+at System.AppDomain.CreateInstance(String assemblyName, String typeName)
+at System.AppDomain.CreateInstanceAndUnwrap(String assemblyName, String typeName)
+at System.AppDomain.CreateInstanceAndUnwrap(String assemblyName, String typeName)
+at Ninject.Modules.AssemblyNameRetriever.GetAssemblyNames(IEnumerable`1 filenames, Predicate`1 filter) in c:\Projects\Ninject\ninject\src\Ninject\Modules\AssemblyNameRetriever.cs:line 50
+at Ninject.Modules.CompiledModuleLoaderPlugin.LoadModules(IEnumerable`1 filenames) in c:\Projects\Ninject\ninject\src\Ninject\Modules\CompiledModuleLoaderPlugin.cs:line 82
+at Ninject.Modules.ModuleLoader.LoadModules(IEnumerable`1 patterns) in c:\Projects\Ninject\ninject\src\Ninject\Modules\ModuleLoader.cs:line 60
+at Ninject.KernelBase..ctor(IComponentContainer components, INinjectSettings settings, INinjectModule[] modules) in c:\Projects\Ninject\ninject\src\Ninject\KernelBase.cs:line 95
+at C2.System.Test.Products.UtNewBusinessTest.UtNewBusinessTester(QuoteWrapper quoteRequestWrapper) in c:\Development\C2\branches\v4.2\C2.System.Test\Products\UtNewBusinessTest.cs:line 37
+]]></stack-trace>
+                                    </failure>
+                                  </test-case>
+                                </results>
+                              </test-suite>
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

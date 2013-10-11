@@ -1,0 +1,36 @@
+*** EXAMPLE ***
+Line1: "Village Hotel", Line2: "Wessex Fields", Town: "Bournemouth", County: "Dorset", PostCode: "BH7 7DR", DateOfSeminar: "2013-02-28 19:00" 
+*** EXAMPLE ***
+
+
+South
+Line1: "Jurys Inn", Line2: "101 Stroudley Road", Town: "Brighton", County: "East Sussex", PostCode: "BN1 4DJ", DateOfSeminar: "2013-10-03 18:00" 
+Line1: "Best Western Chilworth Manor", Line2: "Chilworth", Town: "Southampton", County: "Hampshire", PostCode: "SO16 7PT", DateOfSeminar: "2013-10-03 18:00" 
+Line1: "Cannizaro House", Line2: "West Side Common", Town: "London", County: "Greater London", PostCode: "SW19 4UD", DateOfSeminar: "2013-10-08 18:00" 
+Line1: "County Hotel", Line2: "30 Oak Hill", Line3: "London", Town: "Woodford Green", County: "Greater London", PostCode: "IG8 9NY", DateOfSeminar: "2013-10-08 18:00"
+Line1: "Cambridge Belfry", Line2: "Cambourne", Town: "Cambridge", County: "Cambridgeshire", PostCode: "CB23 6BW", DateOfSeminar: "2013-10-10 18:00"  
+Line1: "Brook Redwood Hotel and Country Club", Line2: "Beggar Bush Lane", Town: "Bristol", County: "North Somerset", PostCode: "BS8 3TG", DateOfSeminar: "2013-10-10 18:00"
+Line1: "Laura Ashley, The Manor Hotel", Line2: "Barnet Lane", Town: "Elstree", County: "Hertfordshire", PostCode: "WD6 3RE", DateOfSeminar: "2013-10-15 18:00"
+Line1: "Holiday Inn East M1 Jct 14", Line2: "500 London Road", Line3: "Newport Pagnell", Town: "Milton Keynes", County: "Buckinghamshire", PostCode: "MK16 0JA", DateOfSeminar: "2013-10-17 18:00"    
+Line1: "Mercure Swindon", Line2: "Old Vicarage Lane", Line3: "South Marston", Line4: "Bristol", Town: "Swindon", County: "Wiltshire", PostCode: "SN3 4SH", DateOfSeminar: "2013-10-22 18:00"    
+Line1: "Bailbrook House", Line2: "Eveleigh Avenue", Line3: "London Road West", Town: "Bath", County: "Somerset", PostCode: "BA1 7JD", DateOfSeminar: "2013-10-24 18:00"  
+Line1: "Mercure Hythe Imperial Hotel and Spa", Line2: "Princes Parade", Town: "Hythe", County: "Kent", PostCode: "CT21 6AE", DateOfSeminar: "2013-10-29 10:30"  
+Line1: "Best Western Claydon Country House", Line2: "16-18 Ipswich Road", Line3: "Claydon", Town: "Ipswich", County: "Suffolk", PostCode: "IP6 0AR", DateOfSeminar: "2013-10-30 10:30"   
+
+Midlands
+Line1: "Lea Marston Hotel and Spa", Line2: "Haunch Lane", Line3: "Lea Marston", Town: "Sutton Coldfield", County: "Warwickshire", PostCode: "B76 0BY", DateOfSeminar: "2013-10-02 18:00" 
+Line1: "Abbey Hotel Golf and Spa", Line2: "Hither, Green Lane", Line3: "Off Dagnell End Road", Town: "Redditch", County: "Worcestershire", PostCode: "B98 9BE", DateOfSeminar: "2013-10-17 18:00" 
+
+North
+Line1: "Best Western Plus Aston Hall", Line2: "Worksop Road", Line3: "Aston", Town: "Sheffield", County: "South Yorkshire", PostCode: "S26 2EE", DateOfSeminar: "2013-10-01 18:00"
+Line1: "Holiday Inn Leeds-Wakefield, M1 Jct 40", Line2: "Queens Drive", Line3: "Ossett", Town: "Wakefield", County: "West Yorkshire", PostCode: "WF5 9BE", DateOfSeminar: "2013-10-03 18:00" 
+Line1: "Bredbury Hall", Line2: "Osborne Street", Line3: "Bredbury", Town: "Stockport", County: "Cheshire", PostCode: "SK6 2DH", DateOfSeminar: "2013-10-08 18:00" 
+Line1: "Fairways Lodge & Leisure Club", Line2: "Bury New Road", Line3: "Prestwich", Town: "Manchester", County: "Greater Manchester", PostCode: "M25 9WS", DateOfSeminar: "2013-10-16 18:00" 
+Line1: "Gosforth Park Marriott", Line2: "High Gosforth", Town: "Newcastle", County: "Newcastle upon Tyne", PostCode: "NE3 5HN", DateOfSeminar: "2013-10-17 18:00" 
+Line1: "Holiday Inn - Doncaster A1(M) Jct 36", Line2: "High Road", Line3: "Warmsworth", Town: "Doncaster", County: "South Yorkshire", PostCode: "DN4 9UX", DateOfSeminar: "2013-10-23 18:00" 
+Line1: "Village Liverpool", Line2: "Fallows Way", Town: "Whiston", County: "Merseyside", PostCode: "L35 1RZ", DateOfSeminar: "2013-10-24 10:30" 
+Line1: "Best Western Stoke-on-Trent Moat", Line2: "Etruria Hall", Line3: "Festival Way", Town: " Stoke-on-Trent", County: "Staffordshire", PostCode: "ST1 5BQ", DateOfSeminar: "2013-10-29 10:30" 
+Line1: "Rockliffe Hall", Line2: "Hurworth-on-Tees", Town: "Darlington", County: "Durham", PostCode: "DL1 9HF", DateOfSeminar: "2013-10-31 10:30" 
+
+Wales
+Line1: "Village Cardiff", Line2: "29 Pendwyallt Road", Town: "Cardiff", County: "Glamorgan", PostCode: "CF14 7EF", DateOfSeminar: "2013-10-23 18:00" 
